@@ -11,6 +11,7 @@ namespace GitTeste
         static void Main(string[] args)
         {
             Console.WriteLine("GIT TESTEW");
+            Console.WriteLine("BOM DIA");
             Console.ReadLine();
         }
     }
